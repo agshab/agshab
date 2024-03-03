@@ -17,7 +17,7 @@
 
 <div align="center">
   <a href="https://github.com/agshab/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agshab&layout=compact&langs_count=8&exclude_repo=refactored-telegram&theme=radical"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agshab&layout=compact&langs_count=8&exclude_repo=refactored-telegram&theme=midnight-purple"/>
   </a>
 
 

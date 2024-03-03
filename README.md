@@ -7,17 +7,17 @@
 - 💬 Ask me about anything [here](https://github.com/agshab) or via email: [arshiags@gmail.com](mailto:arshiags@mail.com).
 
 <p align="center">
-  <a href="www.linkedin.com/in/arshiashabbir/">
+  <a href="https://www.linkedin.com/in/arshiashabbir">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/levib4/"/>
   </a>
-  <a href="https://www.linkedin.com/in/arshiashabbir/">
+  <a href="https://www.linkedin.com/in/arshiashabbir">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Levi-B4&count_bg=%236BE3D4&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile-Visits&edge_flat=false"/>
   </a>
 </p>
 
 <div align="center">
   <a href="https://github.com/agshab/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Levi-B4&layout=compact&langs_count=8&exclude_repo=refactored-telegram&theme=radical"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agshab&layout=compact&langs_count=8&exclude_repo=refactored-telegram&theme=radical"/>
   </a>
 
 

@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 I'm Arshia, a junior Software Developer with experience in Digital Marketing.
-- I'm currently learning Web Development. 
+
 - 🔭 Check out my latest [Work](https://github.com/agshab/Laundromat.git).
+- 🌱 I'm currently learning Web Development. 
 - 👯 I’m willing to work on free-lance projects & am always interested in working on open source projects. 
 - 💬 Ask me about anything [here](https://github.com/agshab) or via email: [arshiags@gmail.com](mailto:arshiags@mail.com).
 

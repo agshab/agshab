@@ -2,7 +2,7 @@
 
   I'm Arshia, a passionate developer interested in software and full stack development
 - 🔭 Check out my latest [Work](git@github.com:agshab/Laundromat.git).
-- 🌱 I’m currently learning Software Developer.<!--- - 💻 I'm also working on a 
+- 🌱 I’m currently learning Software Developer.<!--- - 💻 I'm also working on a -->
 - 👯 I’m willing to work on free-lance projects & am always interested in working on open source projects. 
 - 💬 Ask me about anything [here](https://github.com/agshab) or via email: [arshiags@gmail.com](mailto:arshiags@mail.com).
 
